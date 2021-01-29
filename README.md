@@ -1,4 +1,4 @@
 # Exercism
-My Exercism solutions.
+My Exercism solutions
 
-Click [here](https://exercism.io/profiles/dsantarelli) to visit my profile.
+Click [here](https://exercism.io/profiles/dsantarelli) to visit my profile
